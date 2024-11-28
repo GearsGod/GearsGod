@@ -1,13 +1,14 @@
 # Levi Vargas - Developer
 ## Hi there 👋
 
-## 🔨 I'm currently learning
+## 🔨 I'm currently using
 - Kotlin
 - Python
 - Machine learning
+- Java
 
-## 📂 I'm working on
-### Mi Negocio 🏪 (https://play.google.com/store/apps/details?id=com.gearsofdevelopment.noteofsale)
+## 📂 I'm made the apps
+### Mi Negocio  (https://play.google.com/store/apps/details?id=com.gearsofdevelopment.noteofsale)
 
   ➡ For small businesses to manage their sales <br>
   
@@ -26,9 +27,6 @@
   ➡ Search your data<br>
   
   ➡ Work offline<br>
-  
-  🚧 Working<br>
-  ➡ Update the theme<br>
 
 ### Expense Manager 💰 🚧 (In progress)
 
@@ -53,5 +51,3 @@
   ➡ Using AI for new purposes<br>
   
   ➡ Schedule tools for future projects<br>
-  
-  ➡ Playing video games<br>
